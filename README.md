@@ -1,6 +1,6 @@
 -codigo para el despriegue de variables castruita soto emmanuel 
 
-# PR1_VARIABLES
+# PR1_VARIABLES 3-W
 ejemploos de variables
 
 x = 10
