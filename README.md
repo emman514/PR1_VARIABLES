@@ -22,6 +22,6 @@ print(y)#implime en la pantalla valor de y
 print(x + y)
 #implime en la pantalla valor de x + y igual a 30
 
-![image](https://github.com/user-attachments/assets/2fb2bf5f-0fd4-43e3-9ec2-34d81afe1f74)
+![image](https://github.com/user-attachments/assets/d0877f5e-561b-4dd3-8206-0b605f8bf456)
 
-![image](https://github.com/user-attachments/assets/79f1a261-b317-4317-b19b-eab91f962aba)
+![image](https://github.com/user-attachments/assets/0fe2da94-f6a4-45e2-bef8-7a85d7cd67cf)
