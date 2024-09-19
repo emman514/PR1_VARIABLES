@@ -2,13 +2,21 @@
 
 # PR1_VARIABLES 3-W
 ejemploos de variables
-print(" ")
-print("Emmanuel castruita soto esta es mi practica 1 variables " )
+
+
 print(" ")
 
+print("Emmanuel castruita soto esta es mi practica 1 variables " )
+
+print(" ")
+
+
 x = 10 #se le da un valor a x que es 10
+
 y = 20 #se le da el valor de 20 a y
+
 print(x)#implime en la pantalla valor de x
+
 print(y)#implime en la pantalla valor de y
 
 print(x + y)
