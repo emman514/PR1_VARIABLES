@@ -26,10 +26,12 @@ print(x + y)
 print(" ")
 
 #EL CODIGO
+
 ![image](https://github.com/user-attachments/assets/35df2d71-085a-4a4d-acab-8726c278a701)
 
 
 
 #RESULTADO
+
 ![image](https://github.com/user-attachments/assets/dd74ac5c-85c6-4f4a-b19d-d2e324717601)
 
